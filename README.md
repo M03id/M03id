@@ -1,4 +1,4 @@
-👋 Hi, I'm MO Eid
+👋 Hi, I'm Mo Eid
 
 I'm a Python learner (beginner – intermediate), currently focusing on 
 building a strong foundation in programming and problem solving.
