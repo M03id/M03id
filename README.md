@@ -1,5 +1,4 @@
 👋 Hi, I'm Mo Eid
-
 I'm a Python learner (beginner – intermediate), currently focusing on 
 building a strong foundation in programming and problem solving.
 
@@ -10,12 +9,12 @@ building a strong foundation in programming and problem solving.
 - This profile represents my learning journey and progress
 
 🛠 Skills
-Python (basics to intermediate concepts)
-HTML5  (Structuring web content semantically)
-CSS3   (Styling and layout design)
+- Python (basics to intermediate concepts)
+- HTML5  (Structuring web content semantically)
+- CSS3   (Styling and layout design)
 
 📌 Goals
-Strengthen Python fundamentals
-Build more practical projects
-Prepare for future opportunities and my CV
+- Strengthen Python fundamentals
+- Build more practical projects
+- Prepare for future opportunities and my CV
 
