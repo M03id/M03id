@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm MO Eid
 
-<!--
-**M03id/M03id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python learner (beginner – intermediate), currently focusing on 
+building a strong foundation in programming and problem solving.
 
-Here are some ideas to get you started:
+🧠 About Me
+- Learning Python step by step
+- Interested in writing clean and understandable code
+- Improving through small projects and practice
+- This profile represents my learning journey and progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills
+Python (basics to intermediate concepts)
+HTML5  (Structuring web content semantically)
+CSS3   (Styling and layout design)
+
+📌 Goals
+Strengthen Python fundamentals
+Build more practical projects
+Prepare for future opportunities and my CV
+
