@@ -1,12 +1,7 @@
-👋 Hi, I'm Mo Eid
-I'm a Python learner (beginner – intermediate), currently focusing on 
-building a strong foundation in programming and problem solving.
+Mo Eid
+Django developer building full web applications
+with a focus on clean architecture, scalability, and real-world problem solving.
 
-🧠 About Me
-- Learning Python step by step
-- Interested in writing clean and understandable code
-- Improving through small projects and practice
-- This profile represents my learning journey and progress
 
 🛠 Skills
 - Python (basics to intermediate concepts)
